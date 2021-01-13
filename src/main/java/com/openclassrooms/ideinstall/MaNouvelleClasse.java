@@ -7,6 +7,7 @@ public class MaNouvelleClasse {
 		System.out.println("modif distante 3");
 		System.out.println("modif distante 4");
 		System.out.println("modif distante 5");
+		System.out.println("modif distante 8");
 	}
 	
 }
