@@ -6,7 +6,7 @@ public class BasicExample {
 		int indexA;
 		for(indexA=0; indexA>=10; indexA++) {
 			System.out.println("Hello bugs !" + indexA);
-			System.out.println("et si");
+			System.out.println("et non");
 		}
 	}
 }
