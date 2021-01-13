@@ -5,7 +5,6 @@ public class BasicExample {
 	public static void main(String[] args) {
 		int indexA;
 		for(indexA=0; indexA>=10; indexA++) {
-			System.out.println("modif depuis Github");
 			System.out.println("modif2 depuis Github");
 		}
 	}
