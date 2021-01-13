@@ -3,9 +3,9 @@ package com.openclassrooms.ideinstall;
 public class BasicExample {
 
 	public static void main(String[] args) {
-		int index;
-		for(index=0; index>=10; index++) {
-			System.out.println("Hello bugs !" + index);
+		int index1;
+		for(index1=0; index1>=10; index1++) {
+			System.out.println("Hello bugs !" + index1);
 		}
 	}
 }
