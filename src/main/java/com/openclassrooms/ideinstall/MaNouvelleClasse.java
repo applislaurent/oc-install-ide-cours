@@ -4,7 +4,7 @@ public class MaNouvelleClasse {
 	
 	
 	public static void blabla() {
-		System.out.println("modif de ma méthode");
+		System.out.println("ajout d'une méthode");
 	}
 	
 	
